@@ -1,5 +1,5 @@
 # <font size='8px'><font color='#FF3206'>**Project Name**    - <font color='#3792cb'>Email Campaign Effectiveness Prediction
-## Project Type - Supervised ML Regression
+## Project Type - Supervised ML Classification
 
 ### Contribution - Individual
 <hr>
