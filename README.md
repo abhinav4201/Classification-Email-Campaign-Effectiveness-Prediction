@@ -1,8 +1,7 @@
-#Project Name - Email Campaign Effectiveness Prediction
-<hr>
-##Project Type - Supervised ML Regression
+# <font size='8px'><font color='#FF3206'>**Project Name**    - <font color='#3792cb'>Email Campaign Effectiveness Prediction
+## Project Type - Supervised ML Regression
 
-###Contribution - Individual
+### Contribution - Individual
 <hr>
 Project Summary -
 The goal of this project is to create a machine learning model that can characterize and track emails sent through Gmail-based email marketing campaigns. This model will be used by small to medium business owners who are looking to improve the effectiveness of their email marketing efforts and increase customer retention.
